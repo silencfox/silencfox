@@ -28,7 +28,7 @@ Desde entonces he incursionado en distintas disciplinas en el mundo de la tecnol
 A lo largo de mi carrera he obtenido conocimiento en distintos lenguajes de programacion como es VB6, java, PHP, Python y C#.
 En la actualidad me estoy preparando para certificarme como facilitador docente por el **INFOTEP** y para certificarme en **Microsoft AZURE (AZ-400 y AZ-204)**
 
-<img src="https://raw.githubusercontent.com/silencfox/silencfox/main/1703107524128.gif" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/silencfox/silencfox/main/img/1703107524128.gif" width="50%" height="50%">
 
 ## Repositorios:
 [![GitHub Star](https://img.shields.io/badge/UtilsCon-4285F4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/silencfox/UtilsCon)
